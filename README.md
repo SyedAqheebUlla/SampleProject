@@ -1,2 +1,3 @@
 # SampleProject
-Sample project for demo
+Sample project for demo.
+added new changes and commit.
